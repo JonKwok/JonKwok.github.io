@@ -6,7 +6,16 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Aug 2022 15:52:35 +0800</lastBuildDate><atom:link href="https://www.realxq.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 16:00:55 +0800</lastBuildDate><atom:link href="https://www.realxq.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Test2111</title>
+      <link>https://www.realxq.xyz/post/blog-test2/</link>
+      <pubDate>Tue, 23 Aug 2022 16:00:55 +0800</pubDate>
+      
+      <guid>https://www.realxq.xyz/post/blog-test2/</guid>
+      <description>将近酒</description>
+    </item>
+    
     <item>
       <title>Blog Test</title>
       <link>https://www.realxq.xyz/post/blog-test/</link>

@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.realxq.xyz/post/blog-test/</loc>
-    <lastmod>2022-08-23T15:52:35+08:00</lastmod>
+    <loc>https://www.realxq.xyz/post/blog-test2/</loc>
+    <lastmod>2022-08-23T16:00:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.realxq.xyz/</loc>
-    <lastmod>2022-08-23T15:52:35+08:00</lastmod>
+    <lastmod>2022-08-23T16:00:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.realxq.xyz/post/</loc>
+    <lastmod>2022-08-23T16:00:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.realxq.xyz/post/blog-test/</loc>
     <lastmod>2022-08-23T15:52:35+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
