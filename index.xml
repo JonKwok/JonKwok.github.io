@@ -1,29 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Even - A super concise theme for Hugo</title>
-    <link>https://www.realxq.xyz/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 23 Aug 2022 16:00:55 +0800</lastBuildDate><atom:link href="https://www.realxq.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog Test2111</title>
-      <link>https://www.realxq.xyz/post/blog-test2/</link>
-      <pubDate>Tue, 23 Aug 2022 16:00:55 +0800</pubDate>
-      
-      <guid>https://www.realxq.xyz/post/blog-test2/</guid>
-      <description>将近酒</description>
-    </item>
-    
-    <item>
-      <title>Blog Test</title>
-      <link>https://www.realxq.xyz/post/blog-test/</link>
-      <pubDate>Tue, 23 Aug 2022 15:52:35 +0800</pubDate>
-      
-      <guid>https://www.realxq.xyz/post/blog-test/</guid>
-      <description>每次修改</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>https://www.realxq.xyz/</link>
+        <description>这是我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>jon</copyright><lastBuildDate>Tue, 23 Aug 2022 20:50:56 &#43;0800</lastBuildDate>
+            <atom:link href="https://www.realxq.xyz/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://www.realxq.xyz/posts/first_post/</link>
+    <pubDate>Tue, 23 Aug 2022 20:50:56 &#43;0800</pubDate>
+    <author>Jon</author>
+    <guid>https://www.realxq.xyz/posts/first_post/</guid>
+    <description><![CDATA[123123312312]]></description>
+</item>
+</channel>
 </rss>

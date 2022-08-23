@@ -1,44 +1,9 @@
-<?xml-stylesheet type="text/xsl" href="https://www.realxq.xyz/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://www.realxq.xyz/post/blog-test2/</loc>
-    <lastmod>2022-08-23T16:00:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realxq.xyz/</loc>
-    <lastmod>2022-08-23T16:00:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realxq.xyz/post/</loc>
-    <lastmod>2022-08-23T16:00:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realxq.xyz/post/blog-test/</loc>
-    <lastmod>2022-08-23T15:52:35+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realxq.xyz/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realxq.xyz/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://www.realxq.xyz/posts/first_post/</loc><lastmod>2022-08-23T21:10:43&#43;08:00</lastmod></url><url>
+            <loc>https://www.realxq.xyz/posts/</loc><lastmod>2022-08-23T21:10:43&#43;08:00</lastmod></url><url>
+            <loc>https://www.realxq.xyz/</loc><lastmod>2022-08-23T21:10:43&#43;08:00</lastmod></url><url>
+            <loc>https://www.realxq.xyz/categories/</loc></url><url>
+            <loc>https://www.realxq.xyz/tags/</loc></url></urlset>
